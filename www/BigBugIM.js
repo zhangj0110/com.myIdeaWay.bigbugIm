@@ -24,7 +24,7 @@ module.exports = {
 		},
 		receiveMessageInAndroidCallback : function(data) {
 				try{
-					console.log("cordova.plugins.Easemob.receiveMessageInAndroidCallback");
+					console.log("cordova.plugins.BigBugIM.receiveMessageInAndroidCallback");
 					data = JSON.stringify(data);
 					var bToObj = JSON.parse(data);
 					//this.receiveNotification = bToObj;
@@ -35,7 +35,7 @@ module.exports = {
 		},
 		onMessageReadAckReceivedInAndroidCallback : function(data) {
 				try{
-					console.log("cordova.plugins.Easemob.onMessageReadAckReceivedInAndroidCallback");
+					console.log("cordova.plugins.BigBugIM.onMessageReadAckReceivedInAndroidCallback");
 					data = JSON.stringify(data);
 					var bToObj = JSON.parse(data);
 					//this.receiveNotification = bToObj;
@@ -46,7 +46,7 @@ module.exports = {
 		},
 		onActivityResultInAndroidCallback : function(data) {
 				try{
-					console.log("cordova.plugins.Easemob.onMessageReadAckReceivedInAndroidCallback");
+					console.log("cordova.plugins.BigBugIM.onMessageReadAckReceivedInAndroidCallback");
 					data = JSON.stringify(data);
 					var bToObj = JSON.parse(data);
 					//this.receiveNotification = bToObj;

@@ -8,7 +8,6 @@ import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMFileMessageBody;
-import com.xc.smemobile.R;
 import com.hyphenate.util.FileUtils;
 
 import android.os.Bundle;

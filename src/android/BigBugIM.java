@@ -91,7 +91,7 @@ public class BigBugIM extends CordovaPlugin {
                 @Override
                 public void onMessageReadAckReceived(List<EMMessage> arg0) {
 //					 JSONObject data = getMessageObject(message, extras);
-                    String format = "cordova.plugins.Easemob.onMessageReadAckReceivedInAndroidCallback(%s);";
+                    String format = "cordova.plugins.BigBugIM.onMessageReadAckReceivedInAndroidCallback(%s);";
                     JSONArray jSONArray = new JSONArray();
                     packageJSONArray(arg0,jSONArray);
                     final String js = String.format(format, jSONArray);
@@ -105,7 +105,7 @@ public class BigBugIM extends CordovaPlugin {
                 @Override
                 public void onMessageReceived(List<EMMessage> arg0) {
 //					 JSONObject data = getMessageObject(message, extras);
-                    String format = "cordova.plugins.Easemob.receiveMessageInAndroidCallback(%s);";
+                    String format = "cordova.plugins.BigBugIM.receiveMessageInAndroidCallback(%s);";
                     JSONArray jSONArray = new JSONArray();
                     packageJSONArray(arg0,jSONArray);
                     final String js = String.format(format, jSONArray);
@@ -199,7 +199,7 @@ public class BigBugIM extends CordovaPlugin {
 
 
 //				 JSONObject data = getMessageObject(message, extras);
-            String format = "cordova.plugins.Easemob.onActivityResultInAndroidCallback(%s);";
+            String format = "cordova.plugins.BigBugIM.onActivityResultInAndroidCallback(%s);";
             JSONObject jExtras = new JSONObject();
             try {
                 jExtras.put("data", "从聊天返回web界面");

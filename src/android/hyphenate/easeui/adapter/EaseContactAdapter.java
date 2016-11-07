@@ -21,7 +21,6 @@ import android.widget.TextView;
 import com.hyphenate.easeui.domain.EaseUser;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.util.EMLog;
-import com.xc.smemobile.R;
 
 public class EaseContactAdapter extends ArrayAdapter<EaseUser> implements SectionIndexer{
     private static final String TAG = "ContactAdapter";

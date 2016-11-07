@@ -18,7 +18,6 @@ import com.hyphenate.easeui.ui.EaseBaseActivity;
 import com.hyphenate.easeui.ui.EaseChatFragment;
 import com.hyphenate.easeui.ui.EaseContactListFragment;
 import com.hyphenate.easeui.ui.EaseContactListFragment.EaseContactListItemClickListener;
-import com.xc.smemobile.R;
 
 public class ContactListActivity extends EaseBaseActivity{
 

@@ -18,7 +18,6 @@ import android.widget.RelativeLayout;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
-import com.xc.smemobile.R;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;
 

@@ -47,7 +47,6 @@ import com.baidu.mapapi.map.MyLocationConfiguration.LocationMode;
 import com.baidu.mapapi.map.OverlayOptions;
 import com.baidu.mapapi.model.LatLng;
 import com.baidu.mapapi.utils.CoordinateConverter;
-import com.xc.smemobile.R;
 
 public class EaseBaiduMapActivity extends EaseBaseActivity {
 
