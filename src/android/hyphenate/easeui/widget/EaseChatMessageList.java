@@ -16,7 +16,7 @@ import com.hyphenate.chat.EMMessage;
 import com.hyphenate.easeui.adapter.EaseMessageAdapter;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
 import com.hyphenate.easeui.widget.chatrow.EaseCustomChatRowProvider;
-
+import com.aierlife.user.R;
 public class EaseChatMessageList extends RelativeLayout{
     
     protected static final String TAG = "EaseChatMessageList";

@@ -22,7 +22,7 @@ import com.hyphenate.easeui.widget.EaseChatPrimaryMenuBase.EaseChatPrimaryMenuLi
 import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenu;
 import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenuBase;
 import com.hyphenate.easeui.widget.emojicon.EaseEmojiconMenuBase.EaseEmojiconMenuListener;
-
+import com.aierlife.user.R;
 /**
  * input menu
  * 

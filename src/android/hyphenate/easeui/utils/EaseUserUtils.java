@@ -9,7 +9,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.hyphenate.easeui.controller.EaseUI;
 import com.hyphenate.easeui.controller.EaseUI.EaseUserProfileProvider;
 import com.hyphenate.easeui.domain.EaseUser;
-
+import com.aierlife.user.R;
 public class EaseUserUtils {
     
     static EaseUserProfileProvider userProvider;

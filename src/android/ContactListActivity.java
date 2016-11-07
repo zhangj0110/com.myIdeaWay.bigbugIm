@@ -18,7 +18,7 @@ import com.hyphenate.easeui.ui.EaseBaseActivity;
 import com.hyphenate.easeui.ui.EaseChatFragment;
 import com.hyphenate.easeui.ui.EaseContactListFragment;
 import com.hyphenate.easeui.ui.EaseContactListFragment.EaseContactListItemClickListener;
-
+import com.aierlife.user.R;
 public class ContactListActivity extends EaseBaseActivity{
 
     @Override

@@ -15,7 +15,7 @@ import android.widget.HorizontalScrollView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
-
+import com.aierlife.user.R;
 public class EaseEmojiconScrollTabBar extends RelativeLayout{
 
     private Context context;

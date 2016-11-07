@@ -18,7 +18,7 @@ import com.hyphenate.easeui.domain.EaseEmojicon;
 import com.hyphenate.easeui.domain.EaseEmojicon.Type;
 import com.hyphenate.easeui.domain.EaseEmojiconGroupEntity;
 import com.hyphenate.easeui.utils.EaseSmileUtils;
-
+import com.aierlife.user.R;
 public class EaseEmojiconPagerView extends ViewPager{
 
     private Context context;

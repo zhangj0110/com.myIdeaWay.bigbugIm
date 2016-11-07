@@ -18,7 +18,7 @@ import android.content.Intent;
 import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-
+import com.aierlife.user.R;
 public class EaseChatRowFile extends EaseChatRow{
 
     protected TextView fileNameView;

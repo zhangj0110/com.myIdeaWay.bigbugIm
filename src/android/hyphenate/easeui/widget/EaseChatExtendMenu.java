@@ -17,7 +17,7 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.hyphenate.util.DensityUtil;
-
+import com.aierlife.user.R;
 /**
  * Extend menu when user want send image, voice clip, etc
  *

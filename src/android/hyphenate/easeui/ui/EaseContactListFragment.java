@@ -47,7 +47,7 @@ import android.widget.FrameLayout;
 import android.widget.ImageButton;
 import android.widget.ListView;
 import android.widget.Toast;
-
+import com.aierlife.user.R;
 /**
  * contact list
  * 

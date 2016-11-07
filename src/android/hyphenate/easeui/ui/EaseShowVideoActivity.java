@@ -20,7 +20,7 @@ import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;
-
+import com.aierlife.user.R;
 /**
  * show the video
  * 

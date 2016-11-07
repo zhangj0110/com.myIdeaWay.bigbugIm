@@ -10,7 +10,7 @@ import com.hyphenate.chat.EMMessage;
 import com.hyphenate.easeui.EaseConstant;
 import com.hyphenate.easeui.controller.EaseUI;
 import com.hyphenate.easeui.domain.EaseEmojicon;
-
+import com.aierlife.user.R;
 /**
  * big emoji icons
  *

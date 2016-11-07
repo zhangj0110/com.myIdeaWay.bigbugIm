@@ -14,7 +14,7 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import android.widget.ProgressBar;
 import android.widget.Toast;
-
+import com.aierlife.user.R;
 public class EaseShowNormalFileActivity extends EaseBaseActivity {
 	private ProgressBar progressBar;
 	private File file;

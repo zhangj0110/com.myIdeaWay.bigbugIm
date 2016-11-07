@@ -53,7 +53,7 @@ import com.hyphenate.easeui.widget.EaseVoiceRecorderView.EaseVoiceRecorderCallba
 import com.hyphenate.easeui.widget.chatrow.EaseCustomChatRowProvider;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.PathUtil;
-
+import com.aierlife.user.R;
 import java.io.File;
 import java.util.List;
 

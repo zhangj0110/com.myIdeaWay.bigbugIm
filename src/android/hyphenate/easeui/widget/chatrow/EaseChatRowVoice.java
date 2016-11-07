@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+import com.aierlife.user.R;
 public class EaseChatRowVoice extends EaseChatRowFile{
 
     private ImageView voiceImageView;

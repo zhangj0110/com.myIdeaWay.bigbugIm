@@ -18,7 +18,7 @@ import android.os.Message;
 import android.util.AttributeSet;
 import android.util.Pair;
 import android.widget.ListView;
-
+import com.aierlife.user.R;
 public class EaseConversationList extends ListView {
     
     protected int primaryColor;

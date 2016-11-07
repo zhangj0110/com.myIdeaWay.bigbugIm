@@ -23,7 +23,7 @@ import android.os.AsyncTask;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-
+import com.aierlife.user.R;
 public class EaseChatRowVideo extends EaseChatRowFile{
 
 	private ImageView imageView;

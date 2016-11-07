@@ -13,7 +13,7 @@ import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 import android.widget.TextView.BufferType;
-
+import com.aierlife.user.R;
 public class EaseChatRowText extends EaseChatRow{
 
 	private TextView contentView;

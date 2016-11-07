@@ -23,7 +23,7 @@ import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import com.aierlife.user.R;
 public abstract class EaseChatRow extends LinearLayout {
     protected static final String TAG = EaseChatRow.class.getSimpleName();
 

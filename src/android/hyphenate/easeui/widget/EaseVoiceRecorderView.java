@@ -18,7 +18,7 @@ import com.hyphenate.EMError;
 import com.hyphenate.easeui.model.EaseVoiceRecorder;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
 import com.hyphenate.easeui.widget.chatrow.EaseChatRowVoicePlayClickListener;
-
+import com.aierlife.user.R;
 /**
  * Voice recorder view
  *

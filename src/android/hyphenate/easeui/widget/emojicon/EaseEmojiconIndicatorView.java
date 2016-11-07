@@ -17,7 +17,7 @@ import android.widget.RelativeLayout;
 
 
 import com.hyphenate.util.DensityUtil;
-
+import com.aierlife.user.R;
 @SuppressLint("NewApi")
 public class EaseEmojiconIndicatorView extends LinearLayout{
 

@@ -13,7 +13,7 @@ import com.bumptech.glide.Glide;
 import com.hyphenate.easeui.domain.EaseEmojicon;
 import com.hyphenate.easeui.domain.EaseEmojicon.Type;
 import com.hyphenate.easeui.utils.EaseSmileUtils;
-
+import com.aierlife.user.R;
 public class EmojiconGridAdapter extends ArrayAdapter<EaseEmojicon>{
 
     private Type emojiconType;

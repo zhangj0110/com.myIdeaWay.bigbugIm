@@ -33,7 +33,7 @@ import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.Toast;
-
+import com.aierlife.user.R;
 /**
  * 语音row播放点击事件监听
  *

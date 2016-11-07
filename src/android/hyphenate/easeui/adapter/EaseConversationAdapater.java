@@ -32,6 +32,7 @@ import com.hyphenate.easeui.utils.EaseSmileUtils;
 import com.hyphenate.easeui.utils.EaseUserUtils;
 import com.hyphenate.easeui.widget.EaseConversationList.EaseConversationListHelper;
 import com.hyphenate.util.DateUtils;
+import com.aierlife.user.R;
 
 /**
  * conversation list adapter

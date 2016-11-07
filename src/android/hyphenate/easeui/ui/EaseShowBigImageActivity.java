@@ -38,7 +38,7 @@ import com.hyphenate.easeui.widget.photoview.EasePhotoView;
 import com.hyphenate.util.EMLog;
 import com.hyphenate.util.ImageUtils;
 import com.hyphenate.util.PathUtil;
-
+import com.aierlife.user.R;
 /**
  * download and show original image
  * 
