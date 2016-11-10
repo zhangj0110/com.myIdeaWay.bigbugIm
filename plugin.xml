@@ -4,7 +4,7 @@
     <name>BigBugIM</name>
     <preference name="APP_KEY" />
     <js-module name="BigBugIM" src="www/BigBugIM.js">
-        <clobbers target="cordova.plugins.BigBug"/>
+        <clobbers target="cordova.plugins.BigBugIM"/>
     </js-module>
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
