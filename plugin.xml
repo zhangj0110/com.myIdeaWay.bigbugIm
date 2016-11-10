@@ -4,12 +4,12 @@
     <name>BigBugIM</name>
     <preference name="APP_KEY" />
     <js-module name="BigBugIM" src="www/BigBugIM.js">
-        <clobbers target="cordova.plugins.BigBugIM"/>
+        <clobbers target="cordova.plugins.BigBug"/>
     </js-module>
     <platform name="android">
         <config-file parent="/*" target="res/xml/config.xml">
             <feature name="BigBugIM">
-                <param name="android-package" value="com.myIdeaWay.plugin.bigbugIm.BigBugIM"/>
+                <param name="android-package" value="com.myIdeaWay.plugin.bigbugIm"/>
             </feature>
         </config-file>
         <config-file parent="/*" target="AndroidManifest.xml">
@@ -41,9 +41,9 @@
             <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
         </config-file>
         <config-file target="AndroidManifest.xml" parent="/manifest/application">
-            <activity android:name="com.myIdeaWay.plugin.bigbugIm.ChatActivity"></activity>
-            <activity android:name="com.myIdeaWay.plugin.bigbugIm.ContactListActivity"></activity>
-            <activity android:name="com.myIdeaWay.plugin.bigbugIm.ConversationListActivity"></activity>
+            <activity android:name="bigbugIm.ChatActivity" />
+            <activity android:name="bigbugIm.ContactListActivity" />
+            <activity android:name="bigbugIm.ConversationListActivity" />
             <meta-data android:name="EASEMOB_APPKEY"  android:value="$APP_KEY" />
             <service android:exported="true" android:name="com.hyphenate.chat.EMChatService" />
             <receiver android:name="com.hyphenate.chat.EMMonitorReceiver">
