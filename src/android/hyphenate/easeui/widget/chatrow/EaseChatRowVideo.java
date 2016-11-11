@@ -8,6 +8,7 @@ import com.hyphenate.chat.EMFileMessageBody;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMMessage.ChatType;
 import com.hyphenate.chat.EMVideoMessageBody;
+import com.xc.smemobile.R;
 import com.hyphenate.easeui.model.EaseImageCache;
 import com.hyphenate.easeui.ui.EaseShowVideoActivity;
 import com.hyphenate.easeui.utils.EaseCommonUtils;
@@ -23,7 +24,7 @@ import android.os.AsyncTask;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.aierlife.user.R;
+
 public class EaseChatRowVideo extends EaseChatRowFile{
 
 	private ImageView imageView;

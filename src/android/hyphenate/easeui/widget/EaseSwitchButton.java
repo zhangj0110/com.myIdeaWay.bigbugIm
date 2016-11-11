@@ -8,7 +8,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
-import com.aierlife.user.R;
+
+import com.xc.smemobile.R;
 
 public class EaseSwitchButton extends FrameLayout{
 

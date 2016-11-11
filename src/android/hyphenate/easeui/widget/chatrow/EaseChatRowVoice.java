@@ -3,6 +3,7 @@ package com.hyphenate.easeui.widget.chatrow;
 import com.hyphenate.chat.EMFileMessageBody;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMVoiceMessageBody;
+import com.xc.smemobile.R;
 import com.hyphenate.util.EMLog;
 
 import android.content.Context;
@@ -11,7 +12,7 @@ import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
-import com.aierlife.user.R;
+
 public class EaseChatRowVoice extends EaseChatRowFile{
 
     private ImageView voiceImageView;

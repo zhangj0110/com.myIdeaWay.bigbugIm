@@ -7,8 +7,9 @@ import android.view.View;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
 
+import com.xc.smemobile.R;
 import com.hyphenate.easeui.widget.EaseTitleBar;
-import com.aierlife.user.R;
+
 public abstract class EaseBaseFragment extends Fragment{
     protected EaseTitleBar titleBar;
     protected InputMethodManager inputMethodManager;

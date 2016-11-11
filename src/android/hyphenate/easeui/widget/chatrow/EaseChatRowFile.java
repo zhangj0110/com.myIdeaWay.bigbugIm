@@ -7,6 +7,7 @@ import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMMessage.ChatType;
 import com.hyphenate.chat.EMNormalFileMessageBody;
+import com.xc.smemobile.R;
 import com.hyphenate.easeui.ui.EaseShowNormalFileActivity;
 import com.hyphenate.exceptions.HyphenateException;
 import com.hyphenate.util.FileUtils;
@@ -18,7 +19,7 @@ import android.content.Intent;
 import android.view.View;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
-import com.aierlife.user.R;
+
 public class EaseChatRowFile extends EaseChatRow{
 
     protected TextView fileNameView;

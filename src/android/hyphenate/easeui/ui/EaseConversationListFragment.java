@@ -12,6 +12,7 @@ import com.hyphenate.EMError;
 import com.hyphenate.chat.EMChatManager;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
+import com.xc.smemobile.R;
 import com.hyphenate.easeui.widget.EaseConversationList;
 
 import android.content.Context;
@@ -33,7 +34,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
 import android.widget.FrameLayout;
 import android.widget.ImageButton;
-import com.aierlife.user.R;
+
 /**
  * conversation fragment
  *

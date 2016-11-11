@@ -14,10 +14,10 @@ import android.view.View;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
 
-
+import com.xc.smemobile.R;
 import com.hyphenate.easeui.adapter.EaseContactAdapter;
 import com.hyphenate.easeui.domain.EaseUser;
-import com.aierlife.user.R;
+
 public class EaseContactList extends RelativeLayout {
     protected static final String TAG = EaseContactList.class.getSimpleName();
     

@@ -9,6 +9,7 @@ import java.util.Map;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMMessage;
+import com.xc.smemobile.R;
 import com.hyphenate.easeui.adapter.EaseConversationAdapater;
 
 import android.content.Context;
@@ -18,7 +19,7 @@ import android.os.Message;
 import android.util.AttributeSet;
 import android.util.Pair;
 import android.widget.ListView;
-import com.aierlife.user.R;
+
 public class EaseConversationList extends ListView {
     
     protected int primaryColor;

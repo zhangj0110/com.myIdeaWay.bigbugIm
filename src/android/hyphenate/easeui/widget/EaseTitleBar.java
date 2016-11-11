@@ -8,7 +8,8 @@ import android.view.LayoutInflater;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import com.aierlife.user.R;
+
+import com.xc.smemobile.R;
 
 /**
  * title bar
