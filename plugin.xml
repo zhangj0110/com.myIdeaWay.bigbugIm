@@ -95,7 +95,7 @@
         <source-file src="src/android/libs/org.apache.http.legacy.jar" target-dir="libs" />
 
         <source-file src="src/android/hyphenate" target-dir="src/com" />
-        <source-file src="src/android/BigBugIM.java" target-dir="src/bigbugIm/BigBugIM"/>
+        <source-file src="src/android/BigBug.java" target-dir="src/bigbugIm/BigBugIM"/>
         <source-file src="src/android/ChatActivity.java" target-dir="src/bigbugIm/BigBugIM" />
         <source-file src="src/android/ContactListActivity.java" target-dir="src/bigbugIm/BigBugIM" />
         <source-file src="src/android/ConversationListActivity.java" target-dir="src/bigbugIm/BigBugIM" />
