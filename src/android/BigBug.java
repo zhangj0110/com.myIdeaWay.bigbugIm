@@ -12,7 +12,7 @@ import com.hyphenate.easeui.ConversationListActivity;
 /**
  * This class echoes a string called from JavaScript.
  */
-public class BigBugIM extends CordovaPlugin {
+public class BigBug extends CordovaPlugin {
 
     CallbackContext callback;
 
