@@ -12,7 +12,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 import com.hyphenate.easeui.adapter.EmojiconGridAdapter;
 import com.hyphenate.easeui.adapter.EmojiconPagerAdapter;
 import com.hyphenate.easeui.domain.EaseEmojicon;

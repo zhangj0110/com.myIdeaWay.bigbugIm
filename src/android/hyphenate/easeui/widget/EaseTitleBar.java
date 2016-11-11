@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 
 /**
  * title bar

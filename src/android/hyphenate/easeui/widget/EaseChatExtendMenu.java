@@ -16,7 +16,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 import com.hyphenate.util.DensityUtil;
 
 /**

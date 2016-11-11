@@ -9,7 +9,7 @@ import java.util.Map;
 import com.hyphenate.chat.EMClient;
 import com.hyphenate.chat.EMConversation;
 import com.hyphenate.chat.EMMessage;
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 import com.hyphenate.easeui.adapter.EaseConversationAdapater;
 
 import android.content.Context;

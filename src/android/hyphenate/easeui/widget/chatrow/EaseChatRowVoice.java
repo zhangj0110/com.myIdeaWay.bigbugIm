@@ -3,7 +3,7 @@ package com.hyphenate.easeui.widget.chatrow;
 import com.hyphenate.chat.EMFileMessageBody;
 import com.hyphenate.chat.EMMessage;
 import com.hyphenate.chat.EMVoiceMessageBody;
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 import com.hyphenate.util.EMLog;
 
 import android.content.Context;

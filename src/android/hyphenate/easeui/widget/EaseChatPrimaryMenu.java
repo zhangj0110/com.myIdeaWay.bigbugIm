@@ -15,7 +15,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 
 /**
  * primary menu

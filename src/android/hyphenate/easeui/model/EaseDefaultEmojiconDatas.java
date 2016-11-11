@@ -1,6 +1,6 @@
 package com.hyphenate.easeui.model;
 
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 import com.hyphenate.easeui.domain.EaseEmojicon;
 import com.hyphenate.easeui.domain.EaseEmojicon.Type;
 import com.hyphenate.easeui.utils.EaseSmileUtils;

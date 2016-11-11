@@ -28,7 +28,7 @@ import android.widget.ListView;
 import android.widget.SectionIndexer;
 import android.widget.TextView;
 
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 import com.hyphenate.util.DensityUtil;
 
 public class EaseSidebar extends View{

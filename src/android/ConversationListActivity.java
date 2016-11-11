@@ -23,7 +23,7 @@ import com.hyphenate.easeui.ui.EaseBaseActivity;
 import com.hyphenate.easeui.ui.EaseChatFragment;
 import com.hyphenate.easeui.ui.EaseConversationListFragment;
 import com.hyphenate.easeui.ui.EaseConversationListFragment.EaseConversationListItemClickListener;
-import com.xc.smemobile.R;
+import com.aierlife.user.R;
 
 public class ConversationListActivity extends EaseBaseActivity{
 
